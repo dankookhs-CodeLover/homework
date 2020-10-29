@@ -35,15 +35,12 @@ void recursive(int n) {
 ```
 
 ## ex05
-- 파일 : fibonacci.c
 - 피보나치 수열을 재귀함수를 이용하여 작성하세요.
 - 작성한 피보나치 함수를 fibonacci(1000)을 호출해보고 속도가 매우 느린 이유를 설명해보세요.
 
 ```c
 int fibonacci(int n) {
-  int ans;
   /* 수정하여 작성 */
-  return ans;
 }
 
 ```
